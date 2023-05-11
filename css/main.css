@@ -43,7 +43,7 @@ h4 {
 }
 
 p {
-	font-size: 1rem;
+	font-size: 1em;
 	line-height: 36px;
 }
 
@@ -151,7 +151,7 @@ header nav ul li a {
 
 .menu-list li {
 	color: #45610E;
-	font-size: 1rem;
+	font-size: 1em;
 	line-height: 36px;
 }
 
